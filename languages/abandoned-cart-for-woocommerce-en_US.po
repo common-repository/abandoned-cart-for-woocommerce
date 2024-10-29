@@ -1,0 +1,684 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Abandoned Cart for WooCommerce 1.0.0\n"
+"POT-Creation-Date: 2021-11-27 16:49+0530\n"
+"PO-Revision-Date: 2021-11-27 16:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: MakeWebBetter\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: abandoned-cart-for-woocommerce.php:205
+msgid "Settings"
+msgstr ""
+
+#: abandoned-cart-for-woocommerce.php:210
+msgid "Go Pro"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:308
+msgid "Email Work Flow"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:312
+msgid "Abandon Cart Reports "
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:316
+msgid "Abandon Cart Analytics "
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:320
+msgid " Overview"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:341
+msgid "Enable plugin"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:343
+msgid "Enable plugin to start the functionality."
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:348
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:360
+#: admin/partials/abandoned-cart-for-woocommerce-welcome.php:47
+msgid "YES"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:349
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:361
+#: admin/partials/abandoned-cart-for-woocommerce-welcome.php:48
+msgid "NO"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:353
+msgid "Add to Cart Pop-Up"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:355
+msgid "Enable this to show pop-up at the add to cart time."
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:365
+#: src/component/SecondStep.js:36
+msgid "Add to Cart Pop-Up Title"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:367
+#: src/component/SecondStep.js:37
+msgid "Enter title here to show on add to cart pop-up."
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:371
+msgid "Add to Cart title"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:374
+#: src/component/SecondStep.js:44
+msgid "Add to Cart Pop-Up Text"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:376
+msgid "Enter text here to show on add to cart pop-up."
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:380
+msgid "Add to Cart text"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:383
+msgid "Cut-off time"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:385
+msgid "Enter time in HOURS after which a cart will be treated as abandoned."
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:390
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:400
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:429
+msgid "Enter Time"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:393
+msgid "Delete abandoned cart history"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:395
+msgid ""
+"Enter the number of days before which you dont want to keep history of "
+"abandoned cart. Remain blank to never delete history automatically."
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:403
+msgid "User role for tracking "
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:405
+msgid ""
+"Select user roles for which you want to track abandoned carts(By default "
+"only “GUEST USERS” are tracked)."
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:413
+msgid "Coupon code prefix"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:415
+msgid ""
+"Add a pattern in which you want the coupons to be generated for Cart "
+"Abandoners. Generated coupon will have prefix_<random_5_digit_alphanumeric>."
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:419
+msgid "Enter Coupon code"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:422
+msgid "Coupon expiry"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:424
+msgid ""
+"Enter the number of hours after which coupon will be expired if not used. "
+"Time will start at the time of coupon send."
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:432
+msgid "Coupon Discount"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:434
+msgid ""
+"Enter the percentage discount (between 1-100) which will apply on abandoned "
+"cart."
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:440
+msgid "Enter Discount"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:447
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:490
+msgid "Id of some field is missing"
+msgstr ""
+
+#: admin/class-abandoned-cart-for-woocommerce-admin.php:493
+#: admin/partials/abandoned-cart-for-woocommerce-admin-dashboard.php:41
+msgid "Settings saved !"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-admin-dashboard.php:33
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-admin-dashboard.php:35
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:131
+msgid "Support"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-analytics.php:36
+msgid "Abandoned Carts this Month"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-analytics.php:49
+msgid "Abandoned Carts till Now"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-analytics.php:64
+msgid "Recovered Carts this Month"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-analytics.php:80
+msgid "Recovered Carts till Now"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-analytics.php:95
+msgid "Recovered Money"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-analytics.php:119
+msgid "Money That Can Be recovered"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-analytics.php:142
+msgid "Graph of Abandoned Carts"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:25
+msgid "Use Placeholders"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:25
+msgid "to apply a coupon on the cart"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:25
+msgid "for displaying the cart in the email"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:26
+msgid " for checkout page"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:53
+msgid "Enable The workflow"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:73
+msgid "Initiate Time"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:83
+msgid "Enter time"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:89
+msgid "Enter time In Hours"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:93
+msgid "Enter time In Days"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:100
+msgid "Mail Subject"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:110
+msgid "Enter Mail Subject"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:113
+msgid "Enter Subject"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:119
+msgid "Content"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-email-workflow.php:151
+msgid "Save Workflow"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:22
+msgid "What Is Abandoned Cart For WooCommerce?"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:27
+msgid ""
+"Abandoned Cart For WooCommerce is an all-in-one solution to beat an online "
+"seller’s biggest nightmare, i.e, abandoned carts. With the help of this "
+"plugin, \n"
+"\t\t\t\t\tyou can very easily and efficiently win back your lost WooCommerce "
+"customers and skyrocket your conversion rate."
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:33
+msgid "As a store owner, you get to:"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:36
+msgid "Analyze deep insights into your abandoned carts and products."
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:37
+msgid "Capture customer emails on the checkout and cart page."
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:38
+msgid "Send automated emails to your lost customers"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:39
+msgid "Win-back even the unregistered customers"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:40
+msgid "See a complete list of abandoned carts"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:41
+msgid "Customizable abandoned cart workflows"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:42
+msgid "Disable tracking for selected user roles"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:43
+msgid ""
+"Create an abandoned cart recovery strategy for even the variable products"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:51
+msgid "The Free Plugin Benefits"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:59
+msgid " Advanced Reports For Abandoned Products"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:63
+msgid ""
+"The plugin comes with advanced reports for the abandoned carts made in your "
+"store. Thus, allowing you to \n"
+"\t\t\t\t\t\t\t\tmake an informed abandoned cart recovery strategy."
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:78
+msgid "Workflow For Abandoned Carts"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:79
+msgid ""
+"Abandoned Cart For WooCommerce comes with a customizable workflow that lets "
+"you send emails and win back your lost customers."
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:89
+msgid "Support Variable Product"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:94
+msgid ""
+"The plugin works very well with and supports variable products on your "
+"WooCommerce store."
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:109
+msgid "Complete List Of Abandoned Users"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:114
+msgid ""
+"The plugin gives you a complete list of shoppers that left carts abandoned "
+"on your WooCommerce store."
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-overview.php:135
+msgid ""
+"Phone, Email & Skype support. Our Support is ready to assist you regarding "
+"any query, issue, or feature request and if that doesn't help our Technical "
+"team will connect with you personally and have your query\n"
+"\t\t\t\t\t\t\t\tresolved."
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-product-report.php:51
+msgid "Report as per Abandoned Products"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-product-report.php:74
+#: admin/template/abandoned-cart-for-woocommerce-cart-quick-view.php:26
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-product-report.php:77
+msgid "Abandoned time"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-welcome.php:41
+msgid "Enable Tracking"
+msgstr ""
+
+#: admin/partials/abandoned-cart-for-woocommerce-welcome.php:54
+msgid "Save"
+msgstr ""
+
+#: admin/template/abandoned-cart-for-woocommerce-cart-quick-view.php:23
+msgid "Product Id"
+msgstr ""
+
+#: admin/template/abandoned-cart-for-woocommerce-cart-quick-view.php:29
+msgid "Quantity"
+msgstr ""
+
+#: admin/template/abandoned-cart-for-woocommerce-cart-quick-view.php:32
+msgid "Total "
+msgstr ""
+
+#: admin/template/abandoned-cart-for-woocommerce-cart-record-delete.php:21
+msgid "Record deleted successfully"
+msgstr ""
+
+#: common/class-abandoned-cart-for-woocommerce-common.php:94
+msgid "Every custom time"
+msgstr ""
+
+#: common/class-abandoned-cart-for-woocommerce-common.php:99
+msgid "Delete custom time"
+msgstr ""
+
+#: common/class-abandoned-cart-for-woocommerce-common.php:337
+msgid "If you don't want to receive email click here:-"
+msgstr ""
+
+#: common/class-abandoned-cart-for-woocommerce-common.php:337
+#: common/class-abandoned-cart-for-woocommerce-common.php:614
+msgid "Unsubscribe Now"
+msgstr ""
+
+#: common/class-abandoned-cart-for-woocommerce-common.php:614
+msgid "If you dont want to receive email click here:-"
+msgstr ""
+
+#: common/partials/abandoned-cart-for-woocommerce-common-display.php:18
+msgid "You have successfully unsubscribed !!!!!! Go back to"
+msgstr ""
+
+#: common/partials/abandoned-cart-for-woocommerce-common-display.php:18
+msgid "Site"
+msgstr ""
+
+#: common/partials/abandoned-cart-for-woocommerce-deactivation-notice.php:18
+msgid ""
+"Oops! You tried activating the ABANDONED CART FOR WOOCOMMERCE. Please "
+"activate WooCommerce and then try again."
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-onboarding-steps.php:300
+msgid "What is your monthly revenue?"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-onboarding-steps.php:319
+msgid "What industry defines your business?"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-onboarding-steps.php:325
+msgid "Industry Type"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-onboarding-steps.php:356
+msgid "What is the best email address to contact you?"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-onboarding-steps.php:360
+#: includes/class-abandoned-cart-for-woocommerce-report.php:134
+msgid "Email"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-onboarding-steps.php:368
+msgid "What is your contact number?"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-onboarding-steps.php:373
+msgid "Contact Number"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-onboarding-steps.php:487
+msgid ""
+"Let us know why you are deactivating Abandoned Cart for WooCommerce so we "
+"can improve the plugin"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-onboarding-steps.php:491
+msgid "Reason"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-onboarding-steps.php:731
+msgid "Unexpected Error Occured"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-report.php:72
+msgid "Abandoned"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-report.php:74
+msgid "Recovered"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-report.php:135
+msgid "Left Page From "
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-report.php:136
+msgid "Total"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-report.php:137
+msgid "Status"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-report.php:270
+msgid "Nonce Not Verified"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce-report.php:315
+msgid "Full Details Of Cart"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce.php:392
+msgid "General Setting"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce.php:409
+msgid "Cart"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce.php:413
+msgid "Product"
+msgstr ""
+
+#: includes/class-abandoned-cart-for-woocommerce.php:438
+#, php-format
+msgid ""
+"Unable to locate file at location %s. Some features may not work properly in "
+"this plugin. Please contact us!"
+msgstr ""
+
+#: mwb-acwf-gdpr.php:23
+msgid "Stored Customer Details for Tracking Abandoned cart"
+msgstr ""
+
+#: mwb-acwf-gdpr.php:24
+msgid ""
+"We store customer's email address, customer's Ip Address so that we can send "
+"them email reagarding their abandoned cart to cover them"
+msgstr ""
+"We store customer's email address, customer's Ip Address so that we can send "
+"them email reagarding their abandoned cart to cover them"
+
+#: mwb-acwf-gdpr.php:36
+msgid "Abandoned Cart For WooCommerce"
+msgstr ""
+
+#: mwb-acwf-gdpr.php:54 mwb-acwf-gdpr.php:121
+msgid "Recipient Details"
+msgstr ""
+
+#: mwb-acwf-gdpr.php:166
+msgid "Removed data of \"Abandoned Cart\""
+msgstr ""
+
+#: onboarding/templates/abandoned-cart-for-woocommerce-deactivation-template.php:33
+msgid "May we have a little info about why you are deactivating?"
+msgstr ""
+
+#: onboarding/templates/abandoned-cart-for-woocommerce-deactivation-template.php:44
+msgid "Skip and Deactivate Now"
+msgstr ""
+
+#: onboarding/templates/abandoned-cart-for-woocommerce-onboarding-template.php:27
+msgid "Welcome to MakeWebBetter"
+msgstr ""
+
+#: onboarding/templates/abandoned-cart-for-woocommerce-onboarding-template.php:28
+msgid ""
+"We love making new friends! Subscribe below and we promise to keep you up-to-"
+"date with our latest new plugins, updates, awesome deals and a few special "
+"offers."
+msgstr ""
+
+#: onboarding/templates/abandoned-cart-for-woocommerce-onboarding-template.php:40
+msgid "Skip For Now"
+msgstr ""
+
+#: public/class-abandoned-cart-for-woocommerce-public.php:84
+msgid "Enter Your Email Here"
+msgstr ""
+
+#: public/class-abandoned-cart-for-woocommerce-public.php:366
+msgid "Recovered Abandoned Cart"
+msgstr ""
+
+#: public/class-abandoned-cart-for-woocommerce-public.php:370
+msgid "Hello"
+msgstr ""
+
+#: public/class-abandoned-cart-for-woocommerce-public.php:370
+msgid "Good News"
+msgstr ""
+
+#: public/class-abandoned-cart-for-woocommerce-public.php:370
+msgid "An Abandoned Cart has been Recovered with Order No"
+msgstr ""
+
+#: public/class-abandoned-cart-for-woocommerce-public.php:370
+msgid "Total Amount"
+msgstr ""
+
+#: public/class-abandoned-cart-for-woocommerce-public.php:370
+msgid "Thank You"
+msgstr ""
+
+#: public/partials/abandoned-cart-for-woocommerce-public-atc-popup.php:30
+msgid "Do You Want to Buy"
+msgstr ""
+
+#: public/partials/abandoned-cart-for-woocommerce-public-atc-popup.php:37
+msgid "Please Enter Your Email Here"
+msgstr ""
+
+#: public/partials/abandoned-cart-for-woocommerce-public-atc-popup.php:39
+msgid "Add To Cart"
+msgstr ""
+
+#: src/App.js:34
+msgid "General Settings"
+msgstr ""
+
+#: src/App.js:34
+msgid "Pop-Up Setting"
+msgstr ""
+
+#: src/App.js:34
+msgid "Final Step"
+msgstr ""
+
+#: src/App.js:51
+msgid "Thanks for your details"
+msgstr ""
+
+#: src/App.js:53
+msgid "Unknown stepIndex"
+msgstr ""
+
+#: src/App.js:111
+msgid "Welcome to Makewebbetter"
+msgstr ""
+
+#: src/App.js:112
+msgid "Complete The steps to get started"
+msgstr ""
+
+#: src/component/FinalStep.js:17
+msgid ""
+"Bingo! You are all set to take advantage of your business. Lastly, we urge "
+"you to allow us collect some"
+msgstr ""
+
+#: src/component/FinalStep.js:17
+msgid "information"
+msgstr ""
+
+#: src/component/FinalStep.js:17
+msgid ""
+"in order to improve this plugin and provide better support. If you want, you "
+"can dis-allow anytime settings, We never track down your personal data. "
+"Promise!"
+msgstr ""
+
+#: src/component/SecondStep.js:16
+msgid "Add To Cart Popup Setting"
+msgstr ""
+
+#: src/component/ThirdStep.js:17
+msgid "Setting"
+msgstr ""
+
+#: src/component/ThirdStep.js:35
+msgid "Enter time in HOURS after which a cart will be treated as abandoned"
+msgstr ""
